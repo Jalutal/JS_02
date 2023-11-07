@@ -1,9 +1,6 @@
 function Footer() {
-    return (
-        <div>
-        <h1>Logo du footer</h1>
-        <p>Coucou</p>
-        </div>
+    return (        
+        <p>Je suis le footer. Tu me vois ? Je suis là ! En bas !</p>        
     )
 } 
 
